@@ -1,0 +1,27 @@
+
+*** These modified files were found in JOE when it aborted on Fri Feb 27 14:16:02 2015
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+root
+
+*** File '/home/wang2690/CSCI_4061/A2/.git/COMMIT_EDITMSG'
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i nor -o; assuming --only paths...
+# On branch WorkShop
+# Changes to be committed:
+#	modified:   README.md
+#
+"Adding in new working branch"
+*** File '(Unnamed)'
+make
+Added comments
+
+*** File '(Unnamed)'
+/home/wang2690/CSCI_4061/.git/MERGE_MSG
+* Build Log *
+/home/wang2690/CSCI_4061/A1/.git/COMMIT_EDITMSG
+* Build Log *
+/home/wang2690/CSCI_4061/A2/.git/COMMIT_EDITMSG
